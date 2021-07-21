@@ -4,15 +4,15 @@
 
 ### Description 
 
-![ChangeMe](https://media.giphy.com/media/dsLLWjqr3mUe3Vm3FK/giphy.gif)
+![VOTE](https://media.giphy.com/media/dsLLWjqr3mUe3Vm3FK/giphy.gif)
 
-CHANGEME.com
+VOTEASIFYOURLIFEDEPENDEDONIT.com
 
-@CHANGEME
+@BECAUSEYOURLIFEDOESDEPENDONIT
 
-linkedin.com/in/CHANGEME
+linkedin.com/in/VOTEASIFYOURLIFEDEPENDEDONIT
 
-github.com/CHANGEME
+github.com/VOTEASIFYOURLIFEDEPENDEDONIT
 
 =====================
 
@@ -26,9 +26,9 @@ github.com/CHANGEME
 
 ### Superpowers 
 
-- First 
-- Second
-- Third 
+- VOTE in local elections
+- VOTE in State Elections
+- VOTE in National Elections 
 
 =====================
 
