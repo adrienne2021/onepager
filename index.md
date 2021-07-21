@@ -4,7 +4,7 @@
 
 ### Description 
 
-![ChangeMe](https://live.staticflickr.com/3559/5824727224_39c3ba8247_o.png)
+![ChangeMe](https://media.giphy.com/media/dsLLWjqr3mUe3Vm3FK/giphy.gif)
 
 CHANGEME.com
 
